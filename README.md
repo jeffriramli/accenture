@@ -1,10 +1,10 @@
-# 📐 Cross-Sectional Volume Estimator (VB.NET)
+# Cross-Sectional Volume Estimator (VB.NET)
 
 A simple Windows Forms application built in VB.NET to calculate the **estimated volume between cross-sectional areas** using the **trapezoidal rule**. The app allows users to import data from a `.txt` file, process it, and save the result for further use.
 
 ---
 
-## 📊 Features
+## Features
 
 - ✅ Import cross-sectional area data from a `.txt` file
 - ✅ Automatically calculate volume using the trapezoidal rule
@@ -18,7 +18,7 @@ A simple Windows Forms application built in VB.NET to calculate the **estimated 
 
 This is a simple Windows Forms application developed in VB.NET to calculate the steel reinforcement area required for a rectangular concrete beam subjected to a uniformly distributed load.
 
-## 📐 Features
+## Features
 
 - User input for breadth, depth, span length, and applied load
 - Calculates:
