@@ -1,4 +1,4 @@
-# Cross-Sectional Volume Estimator (VB.NET)
+# 1.Cross-Sectional Volume Estimator (VB.NET)
 
 A simple Windows Forms application built in VB.NET to calculate the **estimated volume between cross-sectional areas** using the **trapezoidal rule**. The app allows users to import data from a `.txt` file, process it, and save the result for further use.
 
@@ -13,7 +13,7 @@ A simple Windows Forms application built in VB.NET to calculate the **estimated 
 
 ---
 
-# Steel Beam Reinforcement Calculator (VB.NET)
+# 2.Steel Beam Reinforcement Calculator (VB.NET)
 
 This is a simple Windows Forms application developed in VB.NET to calculate the steel reinforcement area required for a rectangular concrete beam subjected to a uniformly distributed load.
 
